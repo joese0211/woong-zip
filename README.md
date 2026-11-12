@@ -6,13 +6,13 @@
 
 ## ⬇️ 내려받기
 
-### **[웅집 1.0.2 내려받기 (zip, 22MB)](https://github.com/joese0211/woong-zip/raw/main/download/woong-zip-windows.zip)**
+### **[웅집 1.3.2 내려받기 (zip, 23MB)](https://github.com/joese0211/woongtools/releases/download/zip-v1.3.2/WoongZip-1.3.2-windows.zip)**
 
-<sub>SHA256: `98E6F96E35231238579F8E9543A124860CB7E8E11608BD52773D790C7C650A73`</sub>
+<sub>SHA256: `B2133C877E32F5BC7FC49CE8EDD68F42932EF9E61867434E64F4E6C2FDDD9EE4`</sub>
 
 ## 설치하기
 
-1. 받은 `woong-zip-windows.zip` 을 마우스 오른쪽 단추로 누르고 **[모두 압축 풀기]** 를 고릅니다.
+1. 받은 `WoongZip-1.3.2-windows.zip` 을 마우스 오른쪽 단추로 누르고 **[모두 압축 풀기]** 를 고릅니다.
 2. 풀린 폴더 안의 **WoongZip.exe** 를 두 번 누릅니다.
 3. 파란 창 **"Windows의 PC 보호"** 가 뜨면 **[추가 정보]** → **[실행]** 을 누릅니다.
    (인증서를 사지 않은 작은 무료 프로그램이라 처음 한 번 보이는 안내예요. 설치한 뒤에는 다시 안 떠요.)
